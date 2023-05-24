@@ -1,5 +1,5 @@
 # Gleybe | Solução de Agenda Telefonica.
-Este projeto foi criado para atender a uma necessidade de gerenciar rapidamente contatos de uma agenda telefonica.  
+Este projeto foi criado para atender a uma necessidade de gerenciar rapidamente contatos de uma agenda telefonica.
 Para ajudar no desenvolvimento e projeção da solução, foram utilizadas as seguintes tecnologias e conceitos.
 
 - .NET 6.0
